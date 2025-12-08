@@ -1,0 +1,34 @@
+# === Laravel / PHP ===
+/vendor/
+composer.phar
+.phpunit.result.cache
+/.phpunit.cache
+/.fleet
+
+# === Node / Frontend ===
+/node_modules/
+/public/hot
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Environment / Secrets ===
+.env
+.env.*
+/storage/*.key
+
+# === Storage & Cache (keep public symlink separately) ===
+/storage/app/*
+!/storage/app/public
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+
+# === Public build artifacts ===
+/public/storage
+
+# === IDE / OS junk ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

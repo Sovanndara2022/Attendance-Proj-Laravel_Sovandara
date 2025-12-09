@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+#How to Build, Run, and Test the Attendance System
+# click this Link: https://docs.google.com/document/d/1BOwhnzNVY2EatYud1Th15vMGEcVT6v7p4omFrL-fe8U/edit?usp=sharing
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
